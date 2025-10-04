@@ -1,0 +1,4 @@
+# Ensure consistent line endings and treat PDF as binary
+* text=auto eol=lf
+
+*.pdf binary

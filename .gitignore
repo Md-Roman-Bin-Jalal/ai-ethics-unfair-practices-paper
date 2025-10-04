@@ -1,0 +1,32 @@
+# LaTeX build artifacts (excluded)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Exclude LaTeX sources from the repo as requested
+*.tex
+*.bib
+!README.md
+!*.pdf
+
+# If using Overleaf export, ignore zipped sources
+*.zip
