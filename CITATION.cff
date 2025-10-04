@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Ethics of Artificial Intelligence: Case Study on Unfair Commercial Practices"
+authors:
+  - name: "Md. Roman Bin Jalal"
+    affiliation: "BRAC University"
+version: "1.0"
+date-released: "2025-09-30"
+identifiers:
+  - type: url
+    value: "https://github.com/Md-Roman-Bin-Jalal/ai-ethics-unfair-practices-paper/" 
+
+preferred-citation:
+  type: article
+  title: "Ethics of Artificial Intelligence: Case Study on Unfair Commercial Practices"
+  authors:
+    - name: "Md. Roman Bin Jalal"
+      affiliation: "BRAC University" 
+  year: 2025
+  notes: "PDF available in repository."
+  url: "https://github.com/Md-Roman-Bin-Jalal/ai-ethics-unfair-practices-paper/"
