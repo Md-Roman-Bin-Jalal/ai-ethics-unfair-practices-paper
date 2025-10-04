@@ -8,7 +8,7 @@ This repository hosts the final PDF of an academic paper analyzing unfair commer
 
 This repository contains the final PDF of an academic paper exploring the ethical challenges of artificial intelligence in commercial contexts. The LaTeX source and bibliography are intentionally excluded; the PDF is the definitive version for reading and citation.
 
-**Download the paper:**  
+**Read or Download the paper:**  
 [Ethics_of_Artificial_Intelligence__Case_Study_on_Unfair_Commercial_Practices.pdf](./Ethics_of_Artificial_Intelligence__Case_Study_on_Unfair_Commercial_Practices.pdf)
 
 ---
@@ -83,3 +83,4 @@ The paper is licensed under Creative Commons Attribution 4.0 International (CC B
 
 
  
+
